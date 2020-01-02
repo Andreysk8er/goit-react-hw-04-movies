@@ -1,0 +1,19 @@
+.wrapper {
+  display: flex;
+  justify-content: flex-start;
+}
+.imgWrap {
+  padding: 16px;
+}
+.detailsWrap {
+  max-width: 30%;
+  padding: 16px;
+}
+.ulWrapper {
+  display: flex;
+  justify-content: flex-start;
+}
+.liWrap {
+  padding: 8px;
+  list-style: none;
+}
